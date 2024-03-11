@@ -1,5 +1,5 @@
 [package]
-name = "qemu-pac"
+name = "qemu-16550-pac"
 version = "0.0.30"
 edition = "2021"
 authors = ["Gallium70"]
